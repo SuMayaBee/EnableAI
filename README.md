@@ -5,7 +5,7 @@
 </p>
 
 <p align="justify">
-This repository is dedicated to the development of AI-driven models for <strong>RenewAble Synergy</strong>, focusing on integrating AI in the renewable energy sector. The project aims to enhance the efficiency and management of renewable resources using machine learning techniques.
+This repository is dedicated to the development of AI-driven models for <strong>Enable AI</strong>, focusing on integrating AI in the renewable energy sector. The project aims to enhance the efficiency and management of renewable resources using machine learning techniques.
 </p>
 
 ### 🎯 Key Highlights 
